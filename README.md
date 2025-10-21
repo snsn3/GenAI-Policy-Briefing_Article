@@ -10,4 +10,4 @@ The resulting academic article was presented at the [2025 ICCP Conference](https
 The resulting finetuned GenAI model can be quried [here](http://34.118.169.86/)
 
 # Funding
-My doctoral research is funded by Canada's Social Sciences and Humanities Research Council (SSHRC) through the [Canada Vanier Graduate Scholarships]([http://34.118.169.86/](https://vanier.gc.ca/en/home-accueil.html))
+My doctoral research is funded by Canada's Social Sciences and Humanities Research Council (SSHRC) through the [Canada Vanier Graduate Scholarships](https://vanier.gc.ca/en/home-accueil.html)
